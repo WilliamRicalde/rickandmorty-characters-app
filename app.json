@@ -1,0 +1,12 @@
+{
+  "name": "mi-app",
+  "displayName": "mi-app",
+  "expo": {
+    "name": "mi-app",
+    "slug": "mi-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
